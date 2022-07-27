@@ -1,0 +1,19 @@
+.head {
+    background-color: #FFF9F4;
+    color: #3E3E3E;
+}
+
+.ash {
+    background-color: #F1F1F1;
+}
+
+.ash img {
+    height: 40vh;
+}
+
+.navu>a>img {
+
+    height: 8vh;
+    width: 10px;
+
+}
